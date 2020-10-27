@@ -1,1 +1,1 @@
-third file to test git reposatories
+third file to test git repositories

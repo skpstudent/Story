@@ -1,1 +1,1 @@
-This is the second chapter to test git version control
+This is the second chapter to test git version control, to be committed to the new wonderland branch
